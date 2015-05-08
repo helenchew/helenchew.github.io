@@ -1,10 +1,10 @@
 # Site settings
-title: The Washcloth
+title: Into the Rabbit Hole
 email: helen.chew@hotmail.com
-description: Yolo
+description: "Who's to say what's proper? What if it were agreed that 'proper' meant wearing a codfish on your head? Would you wear it?"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://helenchew.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
+twitter_username: 
 github_username:  helenchew
 
 # Build settings
