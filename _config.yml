@@ -1,7 +1,7 @@
 # Site settings
 title: Into the Rabbit Hole
 email: helen.chew@hotmail.com
-description: "Who's to say what's proper? What if it were agreed that 'proper' meant wearing a codfish on your head? Would you wear it?" - Alice from Alice in Wonderland
+description: &quotWho's to say what's proper? What if it were agreed that 'proper' meant wearing a codfish on your head? Would you wear it?&quot - Alice from Alice in Wonderland
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://helenchew.com" # the base hostname & protocol for your site
 twitter_username: 
