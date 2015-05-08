@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Hello"
-date:   2015-05-07 20:48:02
-categories: jekyll update
+title:  "Bunny"
+date:   2015-05-08 
+categories: misc
 ---
-Hi
+Bunny's identity revealed: Peter Rabbit!
