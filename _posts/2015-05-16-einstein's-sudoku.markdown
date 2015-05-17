@@ -17,7 +17,6 @@ Ever heard of the 10,000 hour rule? According to this legendary axiom, it does n
 As a child, though I do recall playing outside with friends quite often, I also spent a lot of time engaging in intellectually stimulating activities, such as reading outside of school, going to science museums and playing games like chess, checkers, etc. While I realise that of course other kids did these activities too, most people probably did not put in as many hours doing them as I did, so that my time advantage amounted to consistently high academic achievements seen by others later on. <br>
 So no, I am not "smart". I am a person whose hard work gives her a time advantage over others, allowing her to rise above the norm. <br>
 Solving Einstein's riddle rekindled my love for riddles (and Sherlock Holmes; I'm beyond exhilarated for season 4 of BBC's <i>Sherlock</i>) so I'll probably set up a riddles page now just for fun ^_^ <br>
-<br>
 <hr><br>
 I dare you, try to solve Einstein's riddle. I honestly had too much fun with it. If you want the answer, email me or just look it up. Einstein wrote this riddle in the early part of the 20th century. He said that 98% of the world could not solve it. Wanna prove that you're in the top 2% of human intelligence?<br>
 <br>
