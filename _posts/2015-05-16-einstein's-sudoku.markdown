@@ -27,7 +27,8 @@ The situation:<br>
 2. In each house lives a person with a different nationality.<br>
 3. These five owners drink a certain type of beverage, smoke a certain brand of cigar and keep a certain pet.<br>
 4. No owners have the same pet, smoke the same brand of cigar or drink the same beverage.<br>
-The question is: Who owns the fish?<br>
+<br>
+<stong>The question is: Who owns the fish?</strong><br>
 <br>
 Clues:<br>
 -the Brit lives in the red house<br>
