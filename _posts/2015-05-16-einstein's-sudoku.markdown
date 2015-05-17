@@ -20,7 +20,7 @@ Solving Einstein's riddle rekindled my love for riddles (and Sherlock Holmes; I'
 <br>
 I dare you, try to solve Einstein's riddle. I honestly had too much fun with it. If you want the answer, email me or just look it up. Einstein wrote this riddle in the early part of the 20th century. He said that 98% of the world could not solve it. Wanna prove that you're in the top 2% of human intelligence?<br>
 <br>
-<b>Einstein's (deliriously delightful) riddle</b> [Source: University of Delaware]<br>
+<strong>Einstein's (deliriously delightful) riddle</strong> [Source: University of Delaware]<br>
 <br>
 The situation:<br>
 1. There are 5 houses in five different colors.<br>
