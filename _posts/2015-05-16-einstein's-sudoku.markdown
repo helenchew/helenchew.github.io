@@ -18,6 +18,7 @@ As a child, though I do recall playing outside with friends quite often, I also 
 So no, I am not "smart". I am a person whose hard work gives her a time advantage over others, allowing her to rise above the norm. <br>
 Solving Einstein's riddle rekindled my love for riddles (and Sherlock Holmes; I'm beyond exhilarated for season 4 of BBC's <i>Sherlock</i>) so I'll probably set up a riddles page now just for fun ^_^ <br>
 <br>
+<hr><br>
 I dare you, try to solve Einstein's riddle. I honestly had too much fun with it. If you want the answer, email me or just look it up. Einstein wrote this riddle in the early part of the 20th century. He said that 98% of the world could not solve it. Wanna prove that you're in the top 2% of human intelligence?<br>
 <br>
 <strong>Einstein's (deliriously delightful) riddle</strong> [Source: University of Delaware]<br>
