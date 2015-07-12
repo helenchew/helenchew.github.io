@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "Bucket List!"
+date:   2015-07-11 
+categories: misc
+---
+In no particular order and forever more endless,<br>
+<br>
+1. Learn how to play the guitar <br>
+2. Learn how to speak French fluently <br>
+3. Live in or visit England <br>
+4. Try archery <br>
+5. Visit my old friends in Australia <br>
+6. Be on a game show <br>
+7. Get a puppy <br>
+8. Go on a cruise <br>
+9. Visit New York
+10. Visit Hollywood <br>
+11. Watch an opera <br>
+12. Watch a musical on Broadway <br>
+13. Attend a Western style wedding <br>
+14. Watch a professional stand-up comedian live <br>
+15. Watch a professional ballet performance <br>
+16. Learn how to dance hip-hop <br>
+17. Become a better songwriter <br>
+
+
