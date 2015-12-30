@@ -14,7 +14,7 @@ In no particular order and forever more endless,<br>
 6. Be on a game show <br>
 7. Get a puppy <br>
 8. Go on a cruise <br>
-9. Visit New York
+9. Visit New York <br> 
 10. Visit Hollywood <br>
 11. Watch an opera <br>
 12. Watch a musical on Broadway <br>
